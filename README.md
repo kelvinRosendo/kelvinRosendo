@@ -1,5 +1,8 @@
-### Hi there 👋
+### Olá pessoas, aqui vos fala um jovem dev, Kelvin Rosendo, e por incrivel que pareça
+#### 🌱 Eu estou atualmente estudando Java 
 
+### Em um futuro muito breve pretendo
+#### 🔭 estar trabalhando com a linguagem que aprendi: Python 
 <!--
 **kelvinRosendo/kelvinRosendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
