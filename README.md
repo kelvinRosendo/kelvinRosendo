@@ -2,10 +2,10 @@
 #### 🌱 Eu estou atualmente estudando Java 
 
 ### Em um futuro muito breve pretendo
-#### 🔭 estar trabalhando com a linguagem que aprendi: Python 
+#### 🔭 estar trabalhando com as linguagens que aprendi como python, java e javascript
 
-### Estou tendo algumas 
-#### 🤔 dificuldades com css
+### estou com interessee
+#### 🧠 Em aplicar os meu conhecimentos e apreender mais sobre o mundo Dev
 
 ### caso precise
 #### 📫 aqui esta o meu email para contato: rosendokelvin8@gmail.com
