@@ -1,8 +1,8 @@
 ### Olá pessoas, aqui vos fala um jovem dev, Kelvin Rosendo, e por incrivel que pareça
 #### 🌱 Eu estou atualmente estudando Java 
 
-### Em um futuro muito breve pretendo
-#### 🔭 estar trabalhando com as linguagens que aprendi como python, java e javascript
+### Em Um Futuro Muito Breve Pretendo:
+#### 🔭 Estar trabalhando com as linguagens que aprendi como python, java e javascript
 
 ### estou com interessee
 #### 🧠 Em aplicar os meu conhecimentos e apreender mais sobre o mundo Dev
