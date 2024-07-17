@@ -15,7 +15,9 @@
 #### 🧠 Aplicar os meu conhecimentos e apreender mais sobre o mundo Dev
 
 ### Meio de Contato:
-#### rosendokelvin8@gmail.com
+#### 📧rosendokelvin8@gmail.com
+#### ![Uploading image.png…]() 
+
 
 <div>
   <a href="https://github.com/kelvinRosendo">
