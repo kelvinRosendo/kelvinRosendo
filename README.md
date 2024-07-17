@@ -14,9 +14,9 @@
 ### Maior interessee
 #### 🧠 Aplicar os meu conhecimentos e apreender mais sobre o mundo Dev
 
-### Meio de Contato:
-#### 📧rosendokelvin8@gmail.com
-#### ![Uploading image.png…]() 
+### Meio de Contato ~Email e Instagram~:
+#### 📧 rosendokelvin8@gmail.com
+#### 📷 __k3lvin__  
 
 
 <div>
