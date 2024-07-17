@@ -1,14 +1,21 @@
-### Olá pessoas, aqui vos fala um jovem dev, Kelvin Rosendo, e por incrivel que pareça
-#### 🌱 Eu estou atualmente estudando Java 
+## "Em um mundo que sempre esta se atualizando, eu não posso ficar parado"
+### Tecnologias que tenho alguma experiência:
+#### Java - Intermediário
+##### conheço bem suas funções e estou estudando maneiras de coloca-las em pratica
+#### Python - Intermediário
+##### Usei da facilidade da linguagem para aprimorar meus conhecimentos em lógica de programação, e posteriormente, usei do python para apreender sobre automação de tarefas e pretendo #####apreender sobre machine learning
+#### Web Design ~JavaScript, Html, Css~ - Básico
+##### sei como criar sites e entendo como me aprimorar nesse viés da programação mas não me interessa muito
 
-### Em Um Futuro Muito Breve Pretendo:
-#### 🔭 Estar trabalhando com as linguagens que aprendi como python, java e javascript
 
-### estou com interessee
-#### 🧠 Em aplicar os meu conhecimentos e apreender mais sobre o mundo Dev
+### Pretenções Futuras
+#### 🔭 Conseguir aplicar meus conhecimentos em empresas mundo a fora
 
-### caso precise
-#### 📫 aqui esta o meu email para contato: rosendokelvin8@gmail.com
+### Maior interessee
+#### 🧠 Aplicar os meu conhecimentos e apreender mais sobre o mundo Dev
+
+### Meio de Contato:
+#### rosendokelvin8@gmail.com
 
 <div>
   <a href="https://github.com/kelvinRosendo">
