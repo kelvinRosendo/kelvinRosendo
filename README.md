@@ -73,7 +73,7 @@ I am continuously improving my knowledge in system architecture, performance and
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinRosendo&layout=compact&langs_count=8&theme=github_dark"/>
 </p>
----
+
 
 ## 🐍 Contribution Snake
 
