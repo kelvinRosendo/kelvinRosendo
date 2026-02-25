@@ -1,40 +1,97 @@
-## "Em um mundo que sempre esta se atualizando, eu não posso ficar parado"
-### Tecnologias que tenho alguma experiência:
-#### Java - Intermediário
-##### conheço bem suas funções e estou estudando maneiras de coloca-las em pratica
-#### Python - Intermediário
-##### Usei da facilidade da linguagem para aprimorar meus conhecimentos em lógica de programação, e posteriormente, usei do python para apreender sobre automação de tarefas e pretendo #####apreender sobre machine learning
-#### Web Design ~JavaScript, Html, Css~ - Básico
-##### sei como criar sites e entendo como me aprimorar nesse viés da programação mas não me interessa muito
+<h1 align="center">Kelvin Rosendo</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=30&center=true&vCenter=true&width=1000&lines=Backend+Engineer;API+Developer;Automation+Specialist;Java+%7C+Python+%7C+Node+%7C+PHP;Building+Scalable+Systems" />
+</p>
 
-### Pretenções Futuras
-#### 🔭 Conseguir aplicar meus conhecimentos em empresas mundo a fora
+<p align="center">
+  Backend-focused developer building real-world applications with databases, APIs and automation.
+</p>
 
-### Maior interessee
-#### 🧠 Aplicar os meu conhecimentos e apreender mais sobre o mundo Dev
+---
 
-### Meio de Contato ~Email e Instagram~:
-#### 📧 rosendokelvin8@gmail.com
-#### 📷 __k3lvin__  
+## 🚀 About Me
 
+I am a backend-oriented developer focused on building structured, scalable and maintainable systems.
 
-<div>
-  <a href="https://github.com/kelvinRosendo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvinRosendo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinRosendo&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+My experience includes:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-##
-<div>
-  
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+- Designing and consuming REST APIs  
+- Backend development with Java, PHP and Node.js  
+- Automation scripts with Python  
+- Database integration (MySQL & PocketBase)  
+- Structuring full applications from logic layer to persistence  
+
+I am continuously improving my knowledge in system architecture, performance and scalable backend design.
+
+---
+
+## 🧠 Core Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,php,nodejs,javascript,mysql,git,bootstrap" />
+</p>
+
+---
+
+## 🏗 Backend & Architecture
+
+- REST API development and integration  
+- Authentication and data validation  
+- Application structuring using OOP principles  
+- Clean and organized backend logic  
+- Service-oriented thinking  
+
+---
+
+## 🗄 Database Experience
+
+- MySQL relational databases  
+- CRUD operations  
+- Data modeling fundamentals  
+- Backend + database integration  
+- PocketBase for lightweight backend solutions  
+
+---
+
+## 🤖 Automation & Scripting
+
+- Python automation scripts  
+- Task optimization  
+- Process simplification  
+- Logic-heavy workflows  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kelvinRosendo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinRosendo&theme=github-dark-blue"/>
+</p>
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinRosendo&layout=compact&langs_count=8&theme=github_dark"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kelvinRosendo/kelvinRosendo/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌍 Career Objective
+
+To contribute as a backend engineer in global environments, building reliable systems and continuously improving technical depth.
+
+---
+
+## 📫 Contact
+
+📧 rosendokelvin8@gmail.com  
+💼 github.com/kelvinRosendo  
+📷 Instagram: @__k3lvin__
