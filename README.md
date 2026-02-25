@@ -75,13 +75,11 @@ I am continuously improving my knowledge in system architecture, performance and
 </p>
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kelvinRosendo/kelvinRosendo/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/kelvinRosendo/kelvinRosendo/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
----
 
 ## 🌍 Career Objective
 
