@@ -27,10 +27,6 @@
 
 <a id="english-version"></a>
 
-# 🇺🇸 English Version
-
----
-
 # 🚀 About Me
 
 Backend developer focused on building scalable APIs, automation systems and maintainable backend applications using Java, Spring Boot, Python and Node.js.
@@ -196,10 +192,6 @@ Currently improving my knowledge in:
 ---
 
 <a id="versao-em-portugues"></a>
-
-# 🇧🇷 Versão em Português
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=a78bfa&size=22&center=true&vCenter=true&width=800&lines=Desenvolvedor+Backend;Desenvolvedor+de+APIs+REST;Especialista+em+Automação;Java+%7C+Spring+Boot+%7C+Python+%7C+Node.js;Docker+%7C+Linux+%7C+PostgreSQL;Construindo+Sistemas+Backend+Escaláveis" />
