@@ -1,5 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=header&text=Kelvin%20Rosendo&fontSize=42&fontColor=ede9fe&fontAlignY=65&animation=fadeIn&desc=Backend%20Developer%20%7C%20API%20Developer%20%7C%20Automation%20Specialist&descSize=14&descAlignY=85&descColor=c4b5fd"/>
 
+<p align="right">
+  <a href="./README.pt-BR.md">
+    <img src="https://img.shields.io/badge/Idioma-Português-7c3aed?style=for-the-badge" alt="Versão em Português">
+  </a>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=a78bfa&size=22&center=true&vCenter=true&width=800&lines=Backend+Developer;REST+API+Developer;Automation+Specialist;Java+%7C+Spring+Boot+%7C+Python+%7C+Node.js;Docker+%7C+Linux+%7C+PostgreSQL;Building+Scalable+Backend+Systems" />
 </p>
@@ -23,6 +29,7 @@ Backend developer focused on building scalable APIs, automation systems and main
 Experienced with REST APIs, authentication flows, database integration, Linux environments and VPS deployment, always aiming for clean architecture and reliable backend solutions.
 
 Currently improving my knowledge in:
+
 - scalable backend systems
 - software architecture
 - containerization
@@ -103,6 +110,7 @@ Currently improving my knowledge in:
 # 🚀 Featured Projects
 
 ## 🔹 Management System API
+
 - REST API built with Java + Spring Boot
 - Authentication and validation
 - MySQL/PostgreSQL integration
@@ -110,11 +118,13 @@ Currently improving my knowledge in:
 - Scalable service organization
 
 ## 🔹 Automation Scripts Suite
+
 - Python automation workflows
 - Data processing and task optimization
 - Process automation for repetitive operations
 
 ## 🔹 Backend Web Applications
+
 - Backend systems using PHP and Node.js
 - Database integration and API communication
 - Full backend logic implementation
